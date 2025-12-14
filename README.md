@@ -1,4 +1,4 @@
-# Person Identification from EEG Signals using Hybrid CNN + LSTM
+# Person Identification from EEG Signals using Hybrid CNN
 
 **Architecture:** Hybrid CRNN (Convolutional Recurrent Neural Network)
 
